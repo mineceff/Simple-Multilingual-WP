@@ -1,6 +1,6 @@
 {
   "version": "5.2.6",
-  "download_url": "https://github.com/username/simple-multilingual-wp/releases/download/v5.2.6/simple-multilingual-wp.zip",
+  "download_url": "https://github.com/mineceff/simple-multilingual-wp/releases/download/v5.2.6/simple-multilingual-wp.zip",
   "tested": "6.4",
   "requires": "5.8",
   "requires_php": "7.4",
